@@ -19,5 +19,5 @@ describe('a quiz', function() {
     var array = [5, 7, 10, 2, 4, 3, 6, 8, 1, 9];
     var sorted = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
     expect(array.sort()).toEqual(sorted);
-  })
+  });
 });

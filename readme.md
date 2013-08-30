@@ -12,4 +12,4 @@ To run your tests open `SpecRunner.html`.
 For the remaining questions write __both__ the tests and functions.
 AGAIN?!
 
-__Please replace this line with your name.__
+__Chris Wright__
